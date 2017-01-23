@@ -1,0 +1,23 @@
+\t (00:00:27) allegro 16.5 P003 (v16-5-13C) i86
+\t (00:00:27)     Journal start - Wed Oct 28 11:11:38 2015
+\t (00:00:27)         Host=XIANGZIZHOU-PC User=xiangzizhou Pid=788 CPUs=2
+\t (00:00:27) 
+\t (00:00:28) Starting new design...
+\i (00:00:29) trapsize 635
+\i (00:00:29) trapsize 624
+\i (00:00:29) trapsize 637
+\i (00:00:30) trapsize 1057
+\i (00:00:30) signalintegrity 
+\i (00:00:36) pick grid 18480.1 11735.1
+\t (00:00:36) last pick:  18475.0  11725.0
+\i (00:00:38) open 
+\i (00:00:50) fillin "C:\Users\xiangzizhou\Desktop\飞思卡尔工具\PCB和原理图\SABRESDP_DESIGNFILES\Layout\LAY-27392_C.brd"
+\i (00:00:50) cd "C:\Users\xiangzizhou\Desktop\飞思卡尔工具\PCB和原理图\SABRESDP_DESIGNFILES\Layout"
+\t (00:00:50) Opening existing design...
+\i (00:00:51) fillin yes 
+\w (00:00:52) WARNING(SPMHDB-214): OrCAD PCB Designer Standard opening an Allegro GXL design.
+\w (00:00:52) WARNING(SPMHDB-213): DRC set to "out of date". This product supports a different DRC set than last product used on drawing.
+\w (00:00:52) WARNING(SPMHOD-33): Design was last saved by a higher capability product (Allegro GXL). There may be constraints and other design data that may be ignored at the tool's current license levels.
+\i (00:00:54) fillin confirm
+\i (00:00:54) trapsize 18719
+\t (00:00:54)     Journal end - Wed Oct 28 11:12:05 2015
